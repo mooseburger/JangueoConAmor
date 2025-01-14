@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "jangueoconamor"
-  }
+    "default": "jangueoconamor",
+    "development": "dev-jangueoconamor"
+  },
+  "targets": {},
+  "etags": {}
 }
