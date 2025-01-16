@@ -1,0 +1,12 @@
+$primary: #FF6F61;
+$secondary: #E63946;
+$body-bg: #FFF5E6;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.navbar {
+    .nav-link {
+        color: $white;
+    }
+}
+

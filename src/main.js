@@ -1,7 +1,5 @@
-import './assets/main.css'
-
 import { createApp } from 'vue'
-import '../node_modules/bootstrap/scss/bootstrap.scss'
+import './scss/site.scss'
 import App from './App.vue'
 import router from './router'
 
