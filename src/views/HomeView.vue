@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import ParticipantDashboard from '@/components/Participants/ParticipantDashboard.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <ParticipantDashboard />
   </main>
 </template>
